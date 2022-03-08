@@ -1,3 +1,15 @@
+##### Imported from Spring Kotlin: https://start.spring.io
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Annet
+target/
+
+
+##### Genereated from Github
 # Compiled class file
 *.class
 
